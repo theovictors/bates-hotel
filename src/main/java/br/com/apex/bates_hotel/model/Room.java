@@ -65,4 +65,9 @@ public class Room {
 		this.bookings = bookings;
 	}
 
+	@Override
+	public String toString() {
+		return "Room [id=" + id + ", number=" + number + ", dailyValue=" + dailyValue + ", type=" + type + "]";
+	}
+
 }

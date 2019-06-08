@@ -1,7 +1,7 @@
 Manifest-Version: 1.0
 Implementation-Title: bates-hotel
 Implementation-Version: 0.0.1-SNAPSHOT
-Built-By: Aluno04
+Built-By: User
 Implementation-Vendor-Id: br.com.apex
 Build-Jdk: 1.8.0_211
 Created-By: Maven Integration for Eclipse
